@@ -2,7 +2,7 @@
 
 A Python-based IPL player scouting and analytics system that analyzes player performance, generates scouting scores, ranks players, compares players, identifies player strengths, and provides data-driven scouting insights.
 
-## 🎯 Project Objective
+## 🎯 Project ObjectiveS
 
 The goal of this project is to help cricket teams identify and evaluate players using performance-based IPL data.
 
